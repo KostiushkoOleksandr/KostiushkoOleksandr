@@ -1,5 +1,5 @@
 <a href="https://github.com/KostiushkoOleksandr">
-  <img src="" alt="
+  <img src="https://ibb.co/M8nn8Z2" alt="
       Oleksandr Kostiushko" align="center"/>
 </a>
 
