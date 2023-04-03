@@ -2,6 +2,7 @@
   <img src="https://ibb.co/M8nn8Z2" alt="
       Oleksandr Kostiushko" align="center"/>
 </a>
+[url=https://ibb.co/M8nn8Z2][img]https://i.ibb.co/SQNNQ5s/background.png[/img][/url]
 
 <h1 align="left">:wave: Hello there! I'm Oleksandr Kostiushko</h1>
 
