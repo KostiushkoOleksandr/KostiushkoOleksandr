@@ -1,4 +1,4 @@
-<a href="#"><img src="https://i.ibb.co/SQNNQ5s/background.png" alt="background" border="0" text-align= "center"/></a>
+<a href="#"><img src="https://i.ibb.co/SQNNQ5s/background.png" alt="background" border="0" align="center"/></a>
 
 <h1 align="left">:wave: Hello there! I'm Oleksandr Kostiushko</h1>
 
