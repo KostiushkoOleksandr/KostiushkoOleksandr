@@ -1,6 +1,6 @@
 <a href="https://github.com/KostiushkoOleksandr">
-  <img src="https://user-images.githubusercontent.com/45297354/149384539-9edfa509-2810-4575-bf93-f35ce1bc5b4c.png" alt="
-      siberiacancode" align="center"/>
+  <img src="" alt="
+      Oleksandr Kostiushko" align="center"/>
 </a>
 
 <h1 align="left">:wave: Hello there! I'm Oleksandr Kostiushko</h1>
