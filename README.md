@@ -23,12 +23,12 @@ Frontend Developer from Ukraine ua
       </a>
       <br>javascript
     </td>
-    <td align="center" width="110" height="90">
+<!--     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
       </a>
       <br>typescript
-    </td>
+    </td> -->
         <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
