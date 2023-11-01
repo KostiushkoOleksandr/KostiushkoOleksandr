@@ -7,7 +7,7 @@
 
 Frontend Developer from Ukraine ua
 
-- :🔥: &nbsp;My **[portfolio](https://alexkost.netlify.app/)**
+- :🔥: &nbsp;My **[portfolio](https://alexkost.vercel.app/)**
 
 <br>
 
